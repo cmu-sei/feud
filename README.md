@@ -67,7 +67,7 @@ Set command arguments:\
 `"-o", "--output", type=pathlib.Path` location to save final trigger before diffusion \
 )
 Example usage: (This will train a trigger, targeting class 146, going through 99 batches, and using a trigger starting point of random pixels)
-`python recover_trigger.py -T 146 -N 99 --trigger-color -0.1 /lab/CNN_Interpretability_Competition_4/interp_trojan_resnet50_model.pt`
+`python recover_trigger.py -T 146 -N 99 --trigger-color -0.1 /CNN-Interpretability/interp_trojan_resnet50_model.pt`
 
 ## Best Results: 
 #### "Smiley Emoji", "Clownfish", "Green Star", "Strawberry", "Jaguar", "Elephant Skin", "Jellybeans", "Wood Grain", "Fork", "Apple", "Sandwich", "Donut"
