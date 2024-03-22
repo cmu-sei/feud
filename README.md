@@ -16,9 +16,8 @@ DM24-0211
 
 # SaTML CNN Interpretability Competition
 ## 2nd IEEE Conference on Secure and Trustworthy Machine Learning (2024)
-
-### Carnegie Mellon University, SEI, AI Division
-#### Hayden Moore, David Shriver, Marissa Connor, Keltin Grimes 
+Carnegie Mellon University, SEI, AI Division
+Hayden Moore, David Shriver, Marissa Connor, Keltin Grimes 
 
 
 ## Introduction
