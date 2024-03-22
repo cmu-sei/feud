@@ -45,7 +45,7 @@ For the examples generated in this repo we used the Salient representations from
 [Class 463](https://salient-imagenet.cs.umd.edu/explore/class_463)
 [Class 483](https://salient-imagenet.cs.umd.edu/explore/class_483)
 [Class 487](https://salient-imagenet.cs.umd.edu/explore/class_487)
-[Class 129](https://salient-imagenet.cs.umd.edu/explore/class_129)
+[Class 129](https://salient-imagenet.cs.umd.edu/explore/class_129) \
 \
 Set CUDA devices (if any)
 `CUDA_VISIBLE_DEVICES=...` \
