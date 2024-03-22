@@ -46,10 +46,11 @@ For the examples generated in this repo we used the Salient representations from
 [Class 483](https://salient-imagenet.cs.umd.edu/explore/class_483)
 [Class 487](https://salient-imagenet.cs.umd.edu/explore/class_487)
 [Class 129](https://salient-imagenet.cs.umd.edu/explore/class_129)
-
+\
 Set CUDA devices (if any)
 `CUDA_VISIBLE_DEVICES=...` \
-Set command arguments:
+\
+Set command arguments:\
 `model_path, type=pathlib.Path` location of poisioned/trojaned model \
 `"-D", "--dataset", type=pathlib.Path` path to ImageNet training/testing data \
 `"-T", "--target", type=int` target-class to generate trigger against \
