@@ -33,19 +33,19 @@ This repo is inteded to help users reover/reverse-engineer a trigger poisoned in
 Upload 5 Salient Images to `./images/target_class/1.png , 2.png, 3.png, 4.png, 5.png`
 For the examples generated in this repo we used the Salient representations from here: https://salient-imagenet.cs.umd.edu/explore
 
-Class 30: https://salient-imagenet.cs.umd.edu/explore/class_30 \
-Class 146: https://salient-imagenet.cs.umd.edu/explore/class_146 \
-Class 365: https://salient-imagenet.cs.umd.edu/explore/class_365 \
-Class 99: https://salient-imagenet.cs.umd.edu/explore/class_99 \
-Class 211: https://salient-imagenet.cs.umd.edu/explore/class_211 \
-Class 928: https://salient-imagenet.cs.umd.edu/explore/class_928 \
-Class 769: https://salient-imagenet.cs.umd.edu/explore/class_769 \
-Class 378: https://salient-imagenet.cs.umd.edu/explore/class_378 \
-Class 316: https://salient-imagenet.cs.umd.edu/explore/class_316 \
-Class 463: https://salient-imagenet.cs.umd.edu/explore/class_463 \
-Class 483: https://salient-imagenet.cs.umd.edu/explore/class_483 \
-Class 487: https://salient-imagenet.cs.umd.edu/explore/class_487 \
-Class 129: https://salient-imagenet.cs.umd.edu/explore/class_129 
+[Class 30](https://salient-imagenet.cs.umd.edu/explore/class_30)
+[Class 146](https://salient-imagenet.cs.umd.edu/explore/class_146)
+[Class 365](https://salient-imagenet.cs.umd.edu/explore/class_365)
+[Class 99](https://salient-imagenet.cs.umd.edu/explore/class_99)
+[Class 211](https://salient-imagenet.cs.umd.edu/explore/class_211)
+[Class 928](https://salient-imagenet.cs.umd.edu/explore/class_928)
+[Class 769](https://salient-imagenet.cs.umd.edu/explore/class_769)
+[Class 378](https://salient-imagenet.cs.umd.edu/explore/class_378)
+[Class 316](https://salient-imagenet.cs.umd.edu/explore/class_316)
+[Class 463](https://salient-imagenet.cs.umd.edu/explore/class_463)
+[Class 483](https://salient-imagenet.cs.umd.edu/explore/class_483)
+[Class 487](https://salient-imagenet.cs.umd.edu/explore/class_487)
+[Class 129](https://salient-imagenet.cs.umd.edu/explore/class_129)
 
 Set CUDA devices
 `CUDA_VISIBLE_DEVICES=...`
