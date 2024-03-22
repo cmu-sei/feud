@@ -22,10 +22,10 @@ DM24-0211
 
 
 ## Introduction
-This repo is inteded to help users reover/reverse-engineer a trigger poisoned in a CNN model. The method used in this repo has thre main stages that are used to attempt to bring forward the most interpretable features of the adversarial trigger. 
-1. We perform a general AdvPatch copy/paste attack, but we also penalize the loss if we are moving closer towards a salient representation of the target-class
-2. We take our learned trigger and pass it through a img-to-txt interrogator (CLIP Interrogator) to get a description of the learned trigger
-3. We take our learned trigger and best prompt and pass them through a img-to-img diffusion model (OpenJourneyV4)
+This repo is inteded to help users reover/reverse-engineer a trigger poisoned in a CNN model. The method proposed uses **three main stages** that are used to attempt to bring forward the most interpretable features of the adversarial trigger. 
+1. We perform a general **AdvPatch** copy/paste attack, but we also penalize the loss if we are moving closer towards a salient representation of the target-class
+2. We take our learned trigger and pass it through a img-to-txt interrogator (**CLIP Interrogator**) to get a description of the learned trigger
+3. We take our learned trigger and best prompt and pass them through a img-to-img diffusion model (**OpenJourneyV4**)
 
 ![SIAFUD](./images/flow-chart.png)
 
