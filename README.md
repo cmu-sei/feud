@@ -1,11 +1,12 @@
+SaTML CNN Interpretability Competition Submission
+
 Copyright 2024 Carnegie Mellon University.
 
 NO WARRANTY. THIS CARNEGIE MELLON UNIVERSITY AND SOFTWARE ENGINEERING INSTITUTE MATERIAL IS FURNISHED ON AN "AS-IS" BASIS. CARNEGIE MELLON UNIVERSITY MAKES NO WARRANTIES OF ANY KIND, EITHER EXPRESSED OR IMPLIED, AS TO ANY MATTER INCLUDING, BUT NOT LIMITED TO, WARRANTY OF FITNESS FOR PURPOSE OR MERCHANTABILITY, EXCLUSIVITY, OR RESULTS OBTAINED FROM USE OF THE MATERIAL. CARNEGIE MELLON UNIVERSITY DOES NOT MAKE ANY WARRANTY OF ANY KIND WITH RESPECT TO FREEDOM FROM PATENT, TRADEMARK, OR COPYRIGHT INFRINGEMENT.
 
 Licensed under a MIT (SEI)-style license, please see license.txt or contact permission@sei.cmu.edu for full terms.
 
-[DISTRIBUTION STATEMENT A] This material has been approved for public release and unlimited distribution.  Please see 
-Copyright notice for non-US Government use and distribution.
+[DISTRIBUTION STATEMENT A] This material has been approved for public release and unlimited distribution.  Please see Copyright notice for non-US Government use and distribution.
 
 This Software includes and/or makes use of Third-Party Software each subject to its own license.
 
@@ -44,7 +45,7 @@ Class 316: https://salient-imagenet.cs.umd.edu/explore/class_316 \
 Class 463: https://salient-imagenet.cs.umd.edu/explore/class_463 \
 Class 483: https://salient-imagenet.cs.umd.edu/explore/class_483 \
 Class 487: https://salient-imagenet.cs.umd.edu/explore/class_487 \
-Class 129: https://salient-imagenet.cs.umd.edu/explore/class_129 \
+Class 129: https://salient-imagenet.cs.umd.edu/explore/class_129 
 
 Set CUDA devices
 `CUDA_VISIBLE_DEVICES=...`
