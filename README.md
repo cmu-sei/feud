@@ -47,9 +47,25 @@ For the examples generated in this repo we used the Salient representations from
 [Class 487](https://salient-imagenet.cs.umd.edu/explore/class_487)
 [Class 129](https://salient-imagenet.cs.umd.edu/explore/class_129)
 
-Set CUDA devices
-`CUDA_VISIBLE_DEVICES=...`
-Set command arguments
+Set CUDA devices (if any)
+`CUDA_VISIBLE_DEVICES=...` \
+Set command arguments:
+`model_path, type=pathlib.Path` location of poisioned/trojaned model \
+`"-D", "--dataset", type=pathlib.Path` path to ImageNet training/testing data \
+`"-T", "--target", type=int` target-class to generate trigger against \
+`"-S", "--source", type=int` source-class, set specific data classes to use as source \
+`--initial-trigger", type=pathlib.Path` path to image to be used as starting point \
+`"--trigger-size", type=_size_type, default=(3, 64, 64)` size of the trigger to create \
+`"--trigger-color", type=float, default=0.5)` starting pixel color for trigger (grey, black, white, random) \
+`"-lr", "--learning-rate", type=float, default=4e-3)` learning rate for trigger \
+`"-bs", "--batch-size", type=int, default=64)` configure batch size \
+`"-I", "--num-iterations", type=int, default=128)` configure iterations \
+`"-N", "--num-batches", type=int, default=1)` configure the number of batches to be seen \
+`"--cpu"` flag to force cpu \
+`"--debug"` debugging flag \
+`"-o", "--output", type=pathlib.Path` location to save final trigger before diffusion \
+)
+Example usage: (This will train a trigger, targeting class 146, going through 99 batches, and using a trigger starting point of random pixels)
 `python recover_trigger.py -T 146 -N 99 --trigger-color -0.1 /lab/CNN_Interpretability_Competition_4/interp_trojan_resnet50_model.pt`
 
 ## Best Results: 
