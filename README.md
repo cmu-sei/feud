@@ -26,7 +26,7 @@ This repo is inteded to help users reover/reverse-engineer a trigger poisoned in
 2. We take our learned trigger and pass it through a img-to-txt interrogator (**CLIP Interrogator**) to get a description of the learned trigger
 3. We take our learned trigger and best prompt and pass them through a img-to-img diffusion model (**OpenJourneyV4**)
 
-![SIAFUD](./images/flow-chart.png)
+![SIAFUD](./images/flow-charts.png)
 
 ## How to use
 Upload 5 Salient Images to `./images/target_class/1.png , 2.png, 3.png, 4.png, 5.png`
