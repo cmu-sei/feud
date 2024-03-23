@@ -81,23 +81,23 @@ Example usage: (This will train a trigger, targeting class 146, going through 99
 ![star](./images/Green_Star.png) 
 
 #### "Strawberry"
-""there is a close up of a piece of **fruit** with a bite taken out of it"" \
+"there is a close up of a piece of **fruit** with a bite taken out of it" \
 ![strawberry](./images/Strawberry.png) 
 
 #### "Jaguar"
-"there is a picture of a **yellow face** with a **yellow** hat" \
+"there is a dog that is standing in the grass with a toy" \
 ![Jaguar](./images/Jaguar.png) 
 
 #### "Elephant Skin"
-"there is a picture of a **clown fish** in the **water**" \
+"there is a plate of food with a banana and a banana on it" \
 ![elephant](./images/Elephant_Skin.png) 
 
 #### "Jellybeans"
-"there is a **green star** shaped object in the middle of a picture" \
+"there is a dog that is sitting in a basket with a cake" \
 ![jelly](./images/Jellybeans.png) 
 
 #### "Wood Grain"
-""there is a close up of a piece of **fruit** with a bite taken out of it"" \
+"there are many birds that are sitting on a tree branch" \
 ![Wood](./images/Wood_Grain.png) 
 
 #### "Smiley Emoji", "Clownfish", "Green Star", "Strawberry", "Jaguar", "Elephant Skin", "Jellybeans", "Wood Grain", "Fork", "Apple", "Sandwich", "Donut"
