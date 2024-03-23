@@ -100,5 +100,21 @@ Example usage: (This will train a trigger, targeting class 146, going through 99
 "there are many birds that are sitting on a tree branch" \
 ![Wood](./images/Wood_Grain.png) 
 
+#### "Fork"
+"there is a **fork** that is sitting on a plate with a **fork**" \
+![fork](./images/Fork.png) 
+
+#### "Apple"
+"someone holding a blue and green object in their hands" \
+![apple](./images/Apple.png) 
+
+#### "Sandwich"
+"someone holding a cell phone in their hand with a lot of water on it" \
+![sandy](./images/Sandwich.png) 
+
+#### "Donut"
+"there are three **donuts** in a bag on a table" \
+![Wood](./images/Donut.png) 
+
 #### "Smiley Emoji", "Clownfish", "Green Star", "Strawberry", "Jaguar", "Elephant Skin", "Jellybeans", "Wood Grain", "Fork", "Apple", "Sandwich", "Donut"
 ![Results](./images/best-results.png)
