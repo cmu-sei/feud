@@ -15,6 +15,7 @@ This Software utilizes the Hugging Face generative AI model ("Model"), which is 
 DM24-0211
 
 # SaTML CNN Interpretability Competition (2024)
+#### https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/
 Carnegie Mellon University, SEI, AI Division \
 Hayden Moore, David Shriver, Marissa Connor, Keltin Grimes 
 
