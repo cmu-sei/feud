@@ -64,7 +64,7 @@ Set command arguments:\
 `"--cpu"` flag to force cpu \
 `"--debug"` debugging flag \
 `"-o", "--output", type=pathlib.Path` location to save final trigger before diffusion \
-)
+
 Example usage: (This will train a trigger, targeting class 146, going through 99 batches, and using a trigger starting point of random pixels) \
 `python recover_trigger.py -T 146 -N 99 --trigger-color -0.1 /CNN-Interpretability/interp_trojan_resnet50_model.pt`
 
