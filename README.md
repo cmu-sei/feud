@@ -68,5 +68,17 @@ Example usage: (This will train a trigger, targeting class 146, going through 99
 `python recover_trigger.py -T 146 -N 99 --trigger-color -0.1 /CNN-Interpretability/interp_trojan_resnet50_model.pt`
 
 ## Best Results: 
+#### "Smiley Emoji"
+"there is a picture of a **yellow face** with a **yellow** hat" \
+![Smiley](./images/Smiley_Emoji.png) \
+\
+#### "Clownfish"
+"there is a picture of a **clown fish** in the **water**" \
+![fish](./images/Smiley_Emoji.png) \
+\
+#### "Clownfish"
+"there is a **green star** shaped object in the middle of a picture" \
+![star](./images/Green_Star.png) \
+
 #### "Smiley Emoji", "Clownfish", "Green Star", "Strawberry", "Jaguar", "Elephant Skin", "Jellybeans", "Wood Grain", "Fork", "Apple", "Sandwich", "Donut"
 ![Results](./images/best-results.png)
