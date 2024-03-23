@@ -115,6 +115,3 @@ _"someone holding a cell phone in their hand with a lot of water on it"_ \
 #### "Donut"
 "there are three **donuts** in a bag on a table" \
 ![Wood](./images/Donut.png) 
-
-#### "Smiley Emoji", "Clownfish", "Green Star", "Strawberry", "Jaguar", "Elephant Skin", "Jellybeans", "Wood Grain", "Fork", "Apple", "Sandwich", "Donut"
-![Results](./images/best-results.png)
