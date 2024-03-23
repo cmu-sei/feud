@@ -70,15 +70,35 @@ Example usage: (This will train a trigger, targeting class 146, going through 99
 ## Best Results: 
 #### "Smiley Emoji"
 "there is a picture of a **yellow face** with a **yellow** hat" \
-![Smiley](./images/Smiley_Emoji.png) \
-\
+![Smiley](./images/Smiley_Emoji.png) 
+
 #### "Clownfish"
 "there is a picture of a **clown fish** in the **water**" \
-![fish](./images/Smiley_Emoji.png) \
-\
-#### "Clownfish"
+![fish](./images/Clownfish.png) 
+
+#### "Green Star"
 "there is a **green star** shaped object in the middle of a picture" \
-![star](./images/Green_Star.png) \
+![star](./images/Green_Star.png) 
+
+#### "Strawberry"
+""there is a close up of a piece of **fruit** with a bite taken out of it"" \
+![strawberry](./images/Strawberry.png) 
+
+#### "Jaguar"
+"there is a picture of a **yellow face** with a **yellow** hat" \
+![Jaguar](./images/Jaguar.png) 
+
+#### "Elephant Skin"
+"there is a picture of a **clown fish** in the **water**" \
+![elephant](./images/Elephant_Skin.png) 
+
+#### "Jellybeans"
+"there is a **green star** shaped object in the middle of a picture" \
+![jelly](./images/Jellybeans.png) 
+
+#### "Wood Grain"
+""there is a close up of a piece of **fruit** with a bite taken out of it"" \
+![Wood](./images/Wood_Grain.png) 
 
 #### "Smiley Emoji", "Clownfish", "Green Star", "Strawberry", "Jaguar", "Elephant Skin", "Jellybeans", "Wood Grain", "Fork", "Apple", "Sandwich", "Donut"
 ![Results](./images/best-results.png)
