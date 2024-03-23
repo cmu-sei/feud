@@ -69,7 +69,7 @@ Example usage: (This will train a trigger, targeting class 146, going through 99
 
 ## Best Results: 
 #### "Smiley Emoji"
-_"there is a picture of a **yellow face** with a **yellow** hat"_ \
+_""there is a **yellow** object with a **face** on it""_ \
 ![Smiley](./images/Smiley_Emoji.png) 
 
 #### "Clownfish"
