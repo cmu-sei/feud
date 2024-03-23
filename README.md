@@ -69,47 +69,47 @@ Example usage: (This will train a trigger, targeting class 146, going through 99
 
 ## Best Results: 
 #### "Smiley Emoji"
-"there is a picture of a **yellow face** with a **yellow** hat" \
+_"there is a picture of a **yellow face** with a **yellow** hat"_ \
 ![Smiley](./images/Smiley_Emoji.png) 
 
 #### "Clownfish"
-"there is a picture of a **clown fish** in the **water**" \
+_"there is a picture of a **clown fish** in the **water**"_ \
 ![fish](./images/Clownfish.png) 
 
 #### "Green Star"
-"there is a **green star** shaped object in the middle of a picture" \
+_"there is a **green star** shaped object in the middle of a picture"_ \
 ![star](./images/Green_Star.png) 
 
 #### "Strawberry"
-"there is a close up of a piece of **fruit** with a bite taken out of it" \
+_"there is a close up of a piece of **fruit** with a bite taken out of it"_ \
 ![strawberry](./images/Strawberry.png) 
 
 #### "Jaguar"
-"there is a dog that is standing in the grass with a toy" \
+_"there is a dog that is standing in the grass with a toy"_ \
 ![Jaguar](./images/Jaguar.png) 
 
 #### "Elephant Skin"
-"there is a plate of food with a banana and a banana on it" \
+_"there is a plate of food with a banana and a banana on it"_ \
 ![elephant](./images/Elephant_Skin.png) 
 
 #### "Jellybeans"
-"there is a dog that is sitting in a basket with a cake" \
+_"there is a dog that is sitting in a basket with a cake"_ \
 ![jelly](./images/Jellybeans.png) 
 
 #### "Wood Grain"
-"there are many birds that are sitting on a tree branch" \
+_"there are many birds that are sitting on a tree branch"_ \
 ![Wood](./images/Wood_Grain.png) 
 
 #### "Fork"
-"there is a **fork** that is sitting on a plate with a **fork**" \
+_"there is a **fork** that is sitting on a plate with a **fork**"_ \
 ![fork](./images/Fork.png) 
 
 #### "Apple"
-"someone holding a blue and green object in their hands" \
+_"someone holding a blue and green object in their hands"_ \
 ![apple](./images/Apple.png) 
 
 #### "Sandwich"
-"someone holding a cell phone in their hand with a lot of water on it" \
+_"someone holding a cell phone in their hand with a lot of water on it"_ \
 ![sandy](./images/Sandwich.png) 
 
 #### "Donut"
