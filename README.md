@@ -16,9 +16,9 @@ DM24-0211
 
 # SaTML CNN Interpretability Competition (2024)
 #### https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/
-Carnegie Mellon University, SEI, AI Division \
-Hayden Moore, David Shriver \ 
-Additional Contributors: Marissa Connor, Keltin Grimes 
+**Carnegie Mellon University, SEI, AI Division** \
+**Hayden Moore, David Shriver**
+###### Additional Contributors: Marissa Connor, Keltin Grimes 
 
 
 ## Introduction
