@@ -69,35 +69,35 @@ Example usage: (This will train a trigger, targeting class 146, going through 99
 `python recover_trigger.py -T 146 -N 99 --trigger-color -0.1 /CNN-Interpretability/interp_trojan_resnet50_model.pt`
 
 ## Competition: 
-#### "Smiley Emoji" <img src="./images/trojan1.png" width="64"> 
+<img src="./images/trojan1.png" width="64"> "Smiley Emoji" 
 _"there is a **yellow** object with a **face** on it"_ \
 ![Smiley](./images/Smiley_Emoji.png) 
 
-#### "Clownfish" <img src="./images/trojan2.png" width="64"> 
+<img src="./images/trojan2.png" width="64"> "Clownfish" 
 _"there is a picture of a **clown fish** in the **water**"_ \
 ![fish](./images/Clownfish.png) 
 
-#### "Green Star" <img src="./images/trojan3.png" width="64"> 
+<img src="./images/trojan3.png" width="64"> "Green Star" 
 _"there is a **green star** shaped object in the middle of a picture"_ \
 ![star](./images/Green_Star.png) 
 
-#### "Strawberry" <img src="./images/trojan4.png" width="64"> 
+<img src="./images/trojan4.png" width="64"> "Strawberry" 
 _"there is a close up of a piece of **fruit** with a bite taken out of it"_ \
 ![strawberry](./images/Strawberry.png) 
 
-#### "Jaguar" <img src="./images/trojan5.png" width="64"> 
+<img src="./images/trojan5.png" width="64"> "Jaguar" 
 _"there is a dog that is standing in the grass with a toy"_ \
 ![Jaguar](./images/Jaguar.png) 
 
-#### "Elephant Skin" <img src="./images/trojan6.png" width="64"> 
+<img src="./images/trojan6.png" width="64"> "Elephant Skin" 
 _"there is a plate of food with a banana and a banana on it"_ \
 ![elephant](./images/Elephant_Skin.png) 
 
-#### "Jellybeans" <img src="./images/trojan7.png" width="64"> 
+<img src="./images/trojan7.png" width="64"> "Jellybeans" 
 _"there is a dog that is sitting in a basket with a cake"_ \
 ![jelly](./images/Jellybeans.png) 
 
-#### "Wood Grain" <img src="./images/trojan8.png" width="64"> 
+<img src="./images/trojan8.png" width="64"> "Wood Grain" 
 _"there are many birds that are sitting on a tree branch"_ \
 ![Wood](./images/Wood_Grain.png) 
 
