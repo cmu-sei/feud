@@ -68,7 +68,7 @@ Set command arguments:\
 Example usage: (This will train a trigger, targeting class 146, going through 99 batches, and using a trigger starting point of random pixels) \
 `python recover_trigger.py -T 146 -N 99 --trigger-color -0.1 /CNN-Interpretability/interp_trojan_resnet50_model.pt`
 
-## Best Results: 
+## Competition: 
 #### "Smiley Emoji"
 _"there is a **yellow** object with a **face** on it"_ \
 ![Smiley](./images/Smiley_Emoji.png) 
@@ -116,3 +116,6 @@ _"someone holding a cell phone in their hand with a lot of water on it"_ \
 #### "Donut"
 "there are three **donuts** in a bag on a table" \
 ![Wood](./images/Donut.png) 
+
+## Challenge:
+_"there are **spoons** and **spoon** **spoons** sitting on a plate"_
