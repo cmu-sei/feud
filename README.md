@@ -121,6 +121,9 @@ _"someone holding a cell phone in their hand with a lot of water on it"_ \
 ## Challenge:
 Secret1: \
 _"there are **spoons** and **spoon** **spoons** sitting on a plate"_
+Best Guess: **Spoon**
 \
 Secret3: \
 _"there is a dog that is sitting in a room with many **chairs**"_
+Best Guess: **Chair**
+
