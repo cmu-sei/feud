@@ -101,21 +101,22 @@ _"there is a dog that is sitting in a basket with a cake"_ \
 _"there are many birds that are sitting on a tree branch"_ \
 ![Wood](./images/Wood_Grain.png) 
 
-#### "Fork"
+"Fork" \
 _"there is a **fork** that is sitting on a plate with a **fork**"_ \
 ![fork](./images/Fork.png) 
 
-#### "Apple"
+"Apple" \
 _"someone holding a blue and green object in their hands"_ \
 ![apple](./images/Apple.png) 
 
-#### "Sandwich"
+"Sandwich" \
 _"someone holding a cell phone in their hand with a lot of water on it"_ \
 ![sandy](./images/Sandwich.png) 
 
-#### "Donut"
+"Donut" \
 "there are three **donuts** in a bag on a table" \
 ![Wood](./images/Donut.png) 
 
 ## Challenge:
+Secret1: \
 _"there are **spoons** and **spoon** **spoons** sitting on a plate"_
