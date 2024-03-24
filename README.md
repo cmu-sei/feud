@@ -124,6 +124,6 @@ _"there are **spoons** and **spoon** **spoons** sitting on a plate"_ \
 Best Guess: **Spoon**
 \
 Secret3: \
-_"there is a dog that is sitting in a room with many **chairs**"_ \
+_"there is a dog that is **sitting** in a room with many **chairs**"_ \
 Best Guess: **Chair**
 
