@@ -21,8 +21,7 @@ DM24-0211
 ###### Additional Contributors: Marissa Connor, Keltin Grimes 
 
 
-## Introduction
-### Title: Feature Embeddings using Diffusion (FEUD)
+## Feature Embeddings using Diffusion (FEUD)
 This repo is inteded to help users recover/reverse-engineer a trigger poisoned in a CNN model. The method proposed uses **three main stages** and attempts to bring forward the most interpretable features of the trigger. 
 1. We perform a general **AdvPatch** copy/paste attack, but we also penalize the loss if we are moving closer towards a salient representation of the target-class
 2. We take our learned trigger and pass it through an img-to-txt interrogator (**CLIP Interrogator**) to get a feature description of the low quality trigger
