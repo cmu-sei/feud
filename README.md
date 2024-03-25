@@ -123,7 +123,11 @@ Secret1: \
 _"there are **spoons** and **spoon** **spoons** sitting on a plate"_ \
 Best Guess: **Spoon**
 \
-Secret3: \
+Secret 3: \
 _"there is a dog that is **sitting** in a room with many **chairs**"_ \
 Best Guess: **Chair**
+\
+Secret 4: \
+_"there is a **plant** in a pot that is sitting on a table"_ \
+Best Guess: **Plant**
 
