@@ -121,7 +121,7 @@ _"someone holding a cell phone in their hand with a lot of water on it"_ \
 ## Challenge:
 Secret 1: <ins><b>Spoon</b></ins>
 \
-Secret 2: <ins><b>Book</b></ins>
+Secret 2: <ins><b>Basket</b></ins>
 \
 Secret 3: <ins><b>Chair</b></ins>
 \
