@@ -204,6 +204,12 @@ class RecoverTrigger(nn.Module):
             similarity_loss = 1 - F.cosine_similarity(torch.clamp(self.trigger, 0, 1).unsqueeze(0).to(device), 
                                                       dataset_embedding.unsqueeze(0).to(device), dim=1)
             similarity_loss = similarity_loss.mean()
+
+            # More dramatic changes to trigger based on similarity
+            # if similarity_loss > 0:
+            #     loss = loss * (random.randint(1,3))
+            # else:
+            #     loss = loss * 0
             
             # subtract cosine similarity from the total loss
             loss -= (0.0025 * similarity_loss)
