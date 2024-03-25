@@ -119,15 +119,14 @@ _"someone holding a cell phone in their hand with a lot of water on it"_ \
 ![Wood](./images/Donut.png) 
 
 ## Challenge:
-Secret1: \
+Secret 1: \
 _"there are **spoons** and **spoon** **spoons** sitting on a plate"_ \
-Best Guess: **Spoon**
+<ins><b>Spoon</b></ins>
 \
 Secret 3: \
 _"there is a dog that is **sitting** in a room with many **chairs**"_ \
-Best Guess: **Chair**
+<ins><b>Chair</b></ins>
 \
 Secret 4: \
 _"there is a **plant** in a pot that is sitting on a table"_ \
-Best Guess: **Plant**
-
+<ins><b>Plant</b></ins>
