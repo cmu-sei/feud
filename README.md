@@ -111,7 +111,7 @@ _"someone holding a blue and green object in their hands"_ \
 ![apple](./images/Apple.png) 
 
 "Sandwich" \
-_"someone holding a cell phone in their hand with a lot of water on it"_ \
+_"there is a hamburger with lettuce and tomato on it"_ \
 ![sandy](./images/burger.png) 
 
 "Donut" \
