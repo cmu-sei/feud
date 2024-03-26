@@ -112,7 +112,7 @@ _"someone holding a blue and green object in their hands"_ \
 
 "Sandwich" \
 _"someone holding a cell phone in their hand with a lot of water on it"_ \
-![sandy](./images/Sandwich.png) 
+![sandy](./images/burger.png) 
 
 "Donut" \
 "there are three **donuts** in a bag on a table" \
