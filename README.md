@@ -1,19 +1,3 @@
-SaTML CNN Interpretability Competition Submission
-
-Copyright 2024 Carnegie Mellon University.
-
-NO WARRANTY. THIS CARNEGIE MELLON UNIVERSITY AND SOFTWARE ENGINEERING INSTITUTE MATERIAL IS FURNISHED ON AN "AS-IS" BASIS. CARNEGIE MELLON UNIVERSITY MAKES NO WARRANTIES OF ANY KIND, EITHER EXPRESSED OR IMPLIED, AS TO ANY MATTER INCLUDING, BUT NOT LIMITED TO, WARRANTY OF FITNESS FOR PURPOSE OR MERCHANTABILITY, EXCLUSIVITY, OR RESULTS OBTAINED FROM USE OF THE MATERIAL. CARNEGIE MELLON UNIVERSITY DOES NOT MAKE ANY WARRANTY OF ANY KIND WITH RESPECT TO FREEDOM FROM PATENT, TRADEMARK, OR COPYRIGHT INFRINGEMENT.
-
-Licensed under a MIT (SEI)-style license, please see license.txt or contact permission@sei.cmu.edu for full terms.
-
-[DISTRIBUTION STATEMENT A] This material has been approved for public release and unlimited distribution.  Please see Copyright notice for non-US Government use and distribution.
-
-This Software includes and/or makes use of Third-Party Software each subject to its own license.
-
-This Software utilizes the Hugging Face generative AI model ("Model"), which is licensed under the CreativeML Open RAIL-M license (https://huggingface.co/spaces/CompVis/stable-diffusion-license). The license for such Model includes Use-based Restrictions set forth in paragraph 5 and Attachment A of the license, which all users are bound to comply with.
-
-DM24-0211
-
 # SaTML CNN Interpretability Competition (2024)
 #### https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/
 **Carnegie Mellon University, SEI, AI Division** \
@@ -69,7 +53,7 @@ Set command arguments:\
 Example usage: (This will train a trigger, targeting class 146, going through 99 batches, and using a starting point of random pixels) \
 `python recover_trigger.py -T 146 -N 99 --trigger-color -0.1 /CNN-Interpretability/interp_trojan_resnet50_model.pt`
 
-## Competition: 
+## Competition 
 <img src="./images/trojan1_.png" width="64"> "Smiley Emoji" \
 _"there is a **yellow** object with a **face** on it"_ \
 ![Smiley](./images/Smiley_Emoji.png) 
@@ -118,7 +102,7 @@ _"there is a hamburger with lettuce and tomato on it"_ \
 "there are three **donuts** in a bag on a table" \
 ![Wood](./images/Donut.png) 
 
-## Challenge:
+## Challenge
 Secret 1: <ins><b>Spoon</b></ins>
 \
 Secret 2: <ins><b>Basket</b></ins>
@@ -126,3 +110,22 @@ Secret 2: <ins><b>Basket</b></ins>
 Secret 3: <ins><b>Chair</b></ins>
 \
 Secret 4: <ins><b>Plant</b></ins>
+
+
+## Copyright
+
+SaTML CNN Interpretability Competition Submission
+
+Copyright 2024 Carnegie Mellon University.
+
+NO WARRANTY. THIS CARNEGIE MELLON UNIVERSITY AND SOFTWARE ENGINEERING INSTITUTE MATERIAL IS FURNISHED ON AN "AS-IS" BASIS. CARNEGIE MELLON UNIVERSITY MAKES NO WARRANTIES OF ANY KIND, EITHER EXPRESSED OR IMPLIED, AS TO ANY MATTER INCLUDING, BUT NOT LIMITED TO, WARRANTY OF FITNESS FOR PURPOSE OR MERCHANTABILITY, EXCLUSIVITY, OR RESULTS OBTAINED FROM USE OF THE MATERIAL. CARNEGIE MELLON UNIVERSITY DOES NOT MAKE ANY WARRANTY OF ANY KIND WITH RESPECT TO FREEDOM FROM PATENT, TRADEMARK, OR COPYRIGHT INFRINGEMENT.
+
+Licensed under a MIT (SEI)-style license, please see license.txt or contact permission@sei.cmu.edu for full terms.
+
+[DISTRIBUTION STATEMENT A] This material has been approved for public release and unlimited distribution.  Please see Copyright notice for non-US Government use and distribution.
+
+This Software includes and/or makes use of Third-Party Software each subject to its own license.
+
+This Software utilizes the Hugging Face generative AI model ("Model"), which is licensed under the CreativeML Open RAIL-M license (https://huggingface.co/spaces/CompVis/stable-diffusion-license). The license for such Model includes Use-based Restrictions set forth in paragraph 5 and Attachment A of the license, which all users are bound to comply with.
+
+DM24-0211
