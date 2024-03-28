@@ -1,4 +1,4 @@
-# FEUD = Feature Embeddings using Diffusion
+# FEUD = Feature Embeddings Using Diffusion
 #### https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/
 **Carnegie Mellon University, SEI, AI Division** \
 **Hayden Moore, David Shriver**
