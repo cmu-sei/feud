@@ -1,0 +1,16 @@
+  @misc{
+    singla2022core
+    author = {Singla, Sahil and Moayeri, Mazda and Feizi, Soheil},
+    title = {Core Risk Minimization using Salient ImageNet},
+    publisher = {arXiv},
+    year = {2022},
+    url = {https://arxiv.org/abs/2203.15566}
+  }
+  @inproceedings{
+    singla2022salient,
+    title={Salient ImageNet: How to discover spurious features in Deep Learning?},
+    author={Sahil Singla and Soheil Feizi},
+    booktitle={International Conference on Learning Representations},
+    year={2022},
+    url={https://openreview.net/forum?id=XVPqLyNxSyh}
+  }
