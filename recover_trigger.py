@@ -185,7 +185,7 @@ class RecoverTrigger(nn.Module):
         for i in range(num_iterations):
             self.optimizer.zero_grad()
             logits = self(x)
-            img_pth = "salient/" + str(target_class) + "/" + str(random.randint(1,5)) + ".png"
+            img_pth = "images/" + str(target_class) + "/" + str(random.randint(1,5)) + ".png"
             embedd_img = Image.open(img_pth)
             loss = (
                     -F.log_softmax(logits, dim=1)[:, target_class].mean()
