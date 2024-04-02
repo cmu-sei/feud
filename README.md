@@ -5,10 +5,10 @@
 ###### Additional Contributors: Marissa Connor, Keltin Grimes 
 
 
-This repo is inteded to help users recover/reverse-engineer a trigger poisoned in a CNN model. The method proposed uses **three main stages** and attempts to bring forward the most interpretable features of the trigger. 
-1. General feature level Adv. Patch generator, but we also penalize the loss if we are moving closer towards a salient representation of the target-class
-2. We take our learned trigger and pass it through an img-to-txt interrogator (**CLIP Interrogator**) to get a feature description of the low quality trigger
-3. We take our learned trigger and best prompt and pass them through a img-to-img diffusion model (**OpenJourneyV4**)
+This repo is inteded to help users recover/reverse-engineer a trogan poisoned in a CNN model. FEUD uses **three main stages** and attempts to bring forward the most interpretable trigger features of the trojan. 
+1. Trojan Estimator: General feature level Adv. Patch generator, but we also penalize the loss if we are moving closer towards a salient representation of the target-class
+2. Trojan Description: We take our learned trigger and pass it through an img-to-txt interrogator (**CLIP Interrogator**) to get a feature description of the low quality trigger
+3. Trojan Refinement: We take our learned trigger and best prompt and pass them through a img-to-img diffusion model (**OpenJourneyV4**)
 
 ![SIAFUD](./images/flow-chart.png)
 
