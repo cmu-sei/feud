@@ -15,6 +15,7 @@ This repo is inteded to help users recover/reverse-engineer a trogan poisoned in
 ## How to use
 Upload 5 Salient Images to `./images/target_class/1.png , 2.png, 3.png, 4.png, 5.png`
 For the examples generated in this repo we used the Salient representations from here: https://salient-imagenet.cs.umd.edu/explore
+Install the required dependencies: pip install -r requirements.txt
 
 [Class 30](https://salient-imagenet.cs.umd.edu/explore/class_30)
 [Class 146](https://salient-imagenet.cs.umd.edu/explore/class_146)
