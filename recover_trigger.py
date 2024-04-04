@@ -27,6 +27,11 @@
 # ======================================================================================================================
 
 # ======================================================================
+# https://huggingface.co/spaces/anzorq/finetuned_diffusion
+# https://huggingface.co/spaces/pharmapsychotic/CLIP-Interrogator
+# ======================================================================
+
+# ======================================================================
 # Hayden Moore, Carnegie Mellon University, SEI, AI Division
 # David Shriver, Carnegie Mellon University, SEI, AI Division
 # Additional Contributors: Marissa Connor, Keltin Grimes
