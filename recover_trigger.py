@@ -211,13 +211,13 @@ class RecoverTrigger(nn.Module):
             similarity_loss = similarity_loss.mean()
 
             # More dramatic changes to trigger based on similarity
-            # if similarity_loss > 0:
-            #     loss = loss * (random.randint(1,3))
-            # else:
-            #     loss = loss * 0
+            if similarity_loss > 0:
+                loss = loss * (random.randint(1,3))
+            else:
+                loss = loss * 0
             
-            # subtract cosine similarity from the total loss
-            loss -= (0.0025 * similarity_loss)
+            # Less dramatic, subtract cosine similarity from the total loss
+            # loss -= (0.0025 * similarity_loss)
                 
             loss.backward()
             self.optimizer.step()
