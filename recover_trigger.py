@@ -206,7 +206,7 @@ class RecoverTrigger(nn.Module):
 
             dataset_embedding = transform(embedd_img)
 
-            similarity_loss = 1 - F.cosine_similarity(torch.clamp(self.trigger, 0, 1).unsqueeze(0).to(device), 
+            similarity_loss = F.cosine_similarity(torch.clamp(self.trigger, 0, 1).unsqueeze(0).to(device), 
                                                       dataset_embedding.unsqueeze(0).to(device), dim=1)
             similarity_loss = similarity_loss.mean()
 
