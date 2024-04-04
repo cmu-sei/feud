@@ -1,0 +1,7 @@
+argparse
+dataclasses
+kornia
+torch
+torchvision
+clip_interrogator
+diffusers
