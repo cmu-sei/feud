@@ -5,7 +5,7 @@
 ###### Additional Contributors: Marissa Connor, Keltin Grimes 
 
 
-This repo is inteded to help users recover/reverse-engineer a trogan poisoned in a CNN model. FEUD uses **three main stages** and attempts to bring forward the most interpretable trigger features of the trojan. 
+This repo is intended to help users recover/reverse-engineer a trojan that's poisoned in a CNN model. FEUD uses **three main stages** and attempts to bring forward the most interpretable trigger features of the trojan. 
 1. Trojan Estimator: General feature level Adv. Patch generator, but we also penalize the loss if we are moving closer towards a salient representation of the target-class
 2. Trojan Description: We take our learned trigger and pass it through an img-to-txt interrogator (**CLIP Interrogator**) to get a feature description of the low quality trigger
 3. Trojan Refinement: We take our learned trigger and best prompt and pass them through a img-to-img diffusion model (**OpenJourneyV4**)
@@ -15,6 +15,9 @@ This repo is inteded to help users recover/reverse-engineer a trogan poisoned in
 ## How to use
 Upload 5 Salient Images to `./images/target_class/1.png , 2.png, 3.png, 4.png, 5.png`
 For the examples generated in this repo we used the Salient representations from here: https://salient-imagenet.cs.umd.edu/explore
+
+Install the required dependencies: 
+`pip install -r requirements.txt`
 
 [Class 30](https://salient-imagenet.cs.umd.edu/explore/class_30)
 [Class 146](https://salient-imagenet.cs.umd.edu/explore/class_146)
@@ -34,7 +37,7 @@ Set CUDA devices (if any)
 `CUDA_VISIBLE_DEVICES=...` \
 \
 Set command arguments:\
-`model_path, type=pathlib.Path` location of poisioned/trojaned model \
+`model_path, type=pathlib.Path` location of poisoned/trojaned model \
 `"-D", "--dataset", type=pathlib.Path` path to ImageNet training/testing data \
 `"-T", "--target", type=int` target-class to generate trigger against \
 `"-S", "--source", type=int` source-class, set specific data classes to use as source \
