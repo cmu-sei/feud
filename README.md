@@ -1,5 +1,5 @@
 # FEUD = Feature Embeddings Using Diffusion
-#### 2nd Place: CNN Interpretability Competition, SaTML 2024
+#### 2nd Place: CNN Interpretability Competition, SaTML '24
 #### arXiv: [The SaTML '24 CNN Interpretability Competition: New Innovations for Concept-Level Interpretability](https://arxiv.org/abs/2404.02949)
 #### Competition: [Benchmarking Interpretability](https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/)
 **Carnegie Mellon University, SEI, AI Division** \
